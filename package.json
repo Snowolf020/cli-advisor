@@ -1,0 +1,1 @@
+{"name": "google-scraping-cli", "version": "1.0.0", "scripts": {"start": "node src/index.js"}, "dependencies": {"axios": "^0.27.2", "cheerio": "^1.0.0-rc.10", "dotenv": "^16.0.0"}}
